@@ -1,0 +1,37 @@
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe.config
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.pdb
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.Properties.Resources.resources
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.exe
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.pdb
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.SaveWindow.resources
+C:\Users\Student\Documents\Группа БПУ1821\WinApi&WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.Notepad.resources
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe.config
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.pdb
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csprojAssemblyReference.cache
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.Notepad.resources
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.Properties.Resources.resources
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.SaveWindow.resources
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.GenerateResource.cache
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.CoreCompileInputs.cache
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.exe
+C:\Users\Dampel\Desktop\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.pdb
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe.config
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.exe
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\bin\Debug\RichTextBoxPractic.pdb
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.Properties.Resources.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.SaveWindow.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.GenerateResource.cache
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csproj.CoreCompileInputs.cache
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.exe
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.pdb
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.FindString.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.ReplaceString.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.About.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.CatAndCat.resources
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.csprojAssemblyReference.cache
+C:\Users\Dampel\Desktop\WinForms\LessonsLineElement\RichTextBoxPractic\obj\Debug\RichTextBoxPractic.GoToWindow.resources
